@@ -1,0 +1,18 @@
+body{
+    background-image:url("ddf870b825c3cfa6ee3fba14fddf7966.jpeg");
+    font-style: oblique;
+    color:rgb(71, 125, 88);
+    border-style: groove;
+   
+
+}
+
+#camera {
+    border:2px dashed rgb(141, 141, 255); 
+    width:350px; 
+    height:300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+color: cornsilk;
+}
